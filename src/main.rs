@@ -1,5 +1,5 @@
 use std::io;
-use guessing_game::GameLoop;
+use guessing_game_rust::GameLoop;
 
 fn main() {
     println!("Adivinhe o número!");
