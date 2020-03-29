@@ -1,2 +1,2 @@
 # Guessing game
-Exercise of chapter 2 from the book The Rust Programming Language
+Exercise of [Chapter 2](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) from the book The Rust Programming Language
